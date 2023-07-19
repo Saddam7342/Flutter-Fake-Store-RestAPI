@@ -1,4 +1,4 @@
-
+FLUTTER FAKE STORE 
 
 Welcome to the Fake Store project in Flutter! This repository showcases a sample e-commerce store application built using Flutter framework. 
 Please note that this is a fake store application intended for demonstration purposes only.
@@ -11,6 +11,7 @@ Allows users to add items to their cart and proceed to checkout (no actual trans
 Technologies and Tools Used:
 
 Flutter: A powerful framework for cross-platform mobile app development.
+
 REST API: Integration of a mock REST API to fetch product data.
 
 Getting Started:
